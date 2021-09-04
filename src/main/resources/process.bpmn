@@ -93,7 +93,7 @@
       <bpmn:incoming>Flow_0wpjvr2</bpmn:incoming>
       <bpmn:outgoing>Flow_13ranax</bpmn:outgoing>
       <bpmn:script>println("Vincent and Jules are talking about a trip to Europe while sitting in a car");
-execution.setVariable('lastTravel', 'USA');</bpmn:script>
+execution.setVariable('lastTravel', 'Europe');</bpmn:script>
     </bpmn:scriptTask>
     <bpmn:manualTask id="Activity_0g5bgbu" name="Win dance competition">
       <bpmn:extensionElements>
